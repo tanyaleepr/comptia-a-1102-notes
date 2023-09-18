@@ -1,2 +1,2 @@
 # comptia-a-1102-notes
-This repo is for ISC2 CC notes and spanish translation
+This repo is for CompTIA A+ 1102 notes and spanish translation
